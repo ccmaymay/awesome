@@ -13,6 +13,7 @@ A curated collection of software tools and libraries that I find rather awesome.
 * poetry
 * pydantic
 * requests-cache
+* word2number
 * Docker: curlimages/curl
 * Docker: nginx
 * JSON Typedef
