@@ -6,6 +6,7 @@ A curated collection of software tools and libraries that I find rather awesome.
 * click
 * fastapi
 * flake8
+* humanfriendly
 * jsonlines
 * jsons
 * overrides
