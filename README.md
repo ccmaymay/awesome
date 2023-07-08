@@ -11,7 +11,8 @@ A curated collection of software tools and libraries that I find rather awesome.
 * jsons
 * overrides
 * poetry
-* pydantic
+* pydantic (esp Settings)
+* python-redis-cache
 * requests-cache
 * word2number
 * Docker: curlimages/curl
