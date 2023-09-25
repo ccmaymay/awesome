@@ -1,6 +1,12 @@
 # Awesome Software
 A curated collection of software tools and libraries that I find rather awesome. :)
 
+## Bash
+
+### Development
+
+* [`shellcheck`](https://github.com/koalaman/shellcheck) performs linting of bash scripts, highlighting "gotchas" in which bash behaves counterintuitively.
+
 ## Python
 
 ### Development
