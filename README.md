@@ -25,6 +25,10 @@ A curated collection of software tools and libraries that I find rather awesome.
 
 * [`click`](https://click.palletsprojects.com/) helps you build command-line interfaces quickly, requiring much less boilerplate than `argparse` while maintaining plenty of flexibility.  Beyond parsing command-line arguments and generating help text, click can do things like load configuration options from environment variables when present, prompt the user for text, and output colored text when a terminal is detected.
 
+## Databases
+
+* [`redis`](https://redis.io/docs/getting-started/) ([python client library](https://github.com/redis/redis-py)) is an in-memory key-value store.  It strikes a nice balance between performance, versatility, and ease of use.  It is easy to install and run locally (from your home directory); it supports data structures like lists, hashes, and sorted sets; if you're using it for a simple key-value cache, it has builtin TTL/expire functionality and a variety of [configuration options for key eviction](https://redis.io/docs/reference/eviction/).  I've used it in a variety of applications and the main limitation I've come across is that each simple value, list item, hash value, etc. has a max size of 512 MB.
+
 ## TBA
 * cached-path
 * jsonlines
