@@ -7,6 +7,12 @@ A curated collection of software tools and libraries that I find rather awesome.
 
 * [`shellcheck`](https://github.com/koalaman/shellcheck) performs linting of bash scripts, highlighting "gotchas" in which bash behaves counterintuitively.
 
+## JavaScript
+
+### Development
+
+* [`prettier`](https://prettier.io) is an opinionated, no/low-configuration code formatter for JavaScript and other web languages (including Vue, HTML, CSS, TypeScript, and JSON).  It has plugins for vim, VS Code, and other editors that automatically format a file on save.  I love getting reasonably formatted code on the default settings and having one less configuration file to worry about!
+
 ## Python
 
 ### Development
@@ -31,10 +37,8 @@ A curated collection of software tools and libraries that I find rather awesome.
 
 ## TBA
 * cached-path
-* jsonlines
 * python-redis-cache
 * requests-cache
 * thefuzz
 * Docker: curlimages/curl
 * Docker: nginx
-* JSON Typedef
