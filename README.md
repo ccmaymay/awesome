@@ -1,5 +1,5 @@
 # Awesome Software
-A curated collection of software tools and libraries that I find rather awesome. :)
+A short list of software tools and libraries that I think are awesome :)
 
 ## Bash
 
